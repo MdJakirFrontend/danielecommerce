@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+  <g id="Group_6388" data-name="Group 6388" transform="translate(-424 -704)">
+    <rect id="Rectangle_2468" data-name="Rectangle 2468" width="18" height="18" transform="translate(424 704)" fill="#d8ede8" opacity="0"/>
+    <g id="headphones" transform="translate(424.57 704.57)">
+      <g id="Group_6385" data-name="Group 6385">
+        <path id="Path_3856" data-name="Path 3856" d="M8.43,0A8.439,8.439,0,0,0,0,8.43v6.624a1.807,1.807,0,0,0,1.807,1.807H4.215a.6.6,0,0,0,.6-.6V10.237a.6.6,0,0,0-.6-.6H1.807a1.787,1.787,0,0,0-.6.111V8.43a7.226,7.226,0,0,1,14.452,0V9.746a1.786,1.786,0,0,0-.6-.111H12.646a.6.6,0,0,0-.6.6v6.022a.6.6,0,0,0,.6.6h2.409a1.807,1.807,0,0,0,1.807-1.807V8.43A8.439,8.439,0,0,0,8.43,0ZM1.807,10.839H3.613v4.817H1.807a.6.6,0,0,1-.6-.6V11.441A.6.6,0,0,1,1.807,10.839Zm13.85,4.215a.6.6,0,0,1-.6.6H13.248V10.839h1.807a.6.6,0,0,1,.6.6Z" fill="#798080" stroke="#798080" stroke-width="0.1"/>
+      </g>
+    </g>
+  </g>
+</svg>
